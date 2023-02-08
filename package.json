@@ -12,6 +12,7 @@
   "devDependencies": {
     "cy-verify-downloads": "^0.1.11",
     "cypress": "^12.4.1",
+    "cypress-file-upload": "^5.0.8",
     "cypress-xpath": "^2.0.1",
     "i": "^0.3.7"
   },

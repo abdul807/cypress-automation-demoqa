@@ -18,6 +18,7 @@
 //
 require('cypress-xpath');
 require('cy-verify-downloads').addCustomCommand();
+import 'cypress-file-upload';
 // require('cypress-downloadfile');
 // require('cypress-downloadfile/lib/downloadFileCommand')
 
